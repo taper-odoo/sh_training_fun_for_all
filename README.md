@@ -1,2 +1,2 @@
-# sh_training_fun_for_all
+# sh_training_taper
 taper test
